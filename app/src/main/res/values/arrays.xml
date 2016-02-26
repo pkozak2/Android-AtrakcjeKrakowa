@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_Sortowanie_entries">
+        <item>ID miejsca rosnąco</item>
+        <item>ID miejsca malejąco</item>
+        <item>A-Z</item>
+        <item>Z-A</item>
+    </string-array>
+    <string-array name="pref_Sortowanie_values">
+        <item>idmiejsca ASC</item>
+        <item>idmiejsca DESC</item>
+        <item>nazwa ASC</item>
+        <item>nazwa DESC</item>
+    </string-array>
+</resources>

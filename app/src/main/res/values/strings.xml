@@ -1,0 +1,32 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Atrakcje Krakowa</string>
+    <string name="list_button">Lista Atrakcji</string>
+    <string name="fav_button">Ulubione</string>
+    <string name="settings_button">Ustawienia</string>
+    <string name="copyrights">Copyrights (c) Piotr Kozak, Andrzej Jagielski UEK 2015</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="logo_desc">Logo Aplikacji</string>
+
+    <string name="download_button">Pobierz Dane</string>
+
+    <string name="title_activity_fav">Ulubione</string>
+    <string name="title_activity_list">Lista Atrakcji</string>
+
+    <string name="pref_Sortowanie">Kolejność sortowania</string>
+    <string name="pref_Sortowanie_opis">Wybierz kolejność sortowania notatek</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="main_menu_refresh">Odśwież</string>
+    <string name="hello_world">helllo</string>
+    <string name="no_places">Brak miejsc. Odśwież listę w menu głównym.</string>
+    <string name="title_activity_show_place">Wybrane Miejsce</string>
+    <string name="no_fav_places">Brak ulubionych miejsc.</string>
+    <string name="ShowGPS">Dane GPS</string>
+    <string name="GPSLength">Długość geograficzna:</string>
+    <string name="GPSHeight">Szerokość geograficzna:</string>
+    <string name="GPSLengthDane">0</string>
+    <string name="GPSHeightDane">0</string>
+    <string name="Navigatebutton">Nawiguj</string>
+    <string name="FavouritesButton">Dodaj do ulubionych</string>
+    <string name="FavouritesDelButton">Usuń z ulubionych</string>
+    <string name="MAPtext">Mapa</string>
+</resources>

@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="jagielski.kozak.atrakcjekrakowa.settingsActivity"
+    android:background="@color/bgBlue">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/logo_desc"
+        android:clickable="false" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/download_button"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:onClick="download"
+        />
+</LinearLayout>

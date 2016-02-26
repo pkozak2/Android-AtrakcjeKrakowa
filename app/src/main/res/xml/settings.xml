@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory  android:title="Sortowanie" >
+        <ListPreference
+            android:key="pref_Sortowanie"
+            android:title="@string/pref_Sortowanie"
+            android:dialogTitle="@string/pref_Sortowanie"
+            android:summary="@string/pref_Sortowanie_opis"
+            android:entries="@array/pref_Sortowanie_entries"
+            android:entryValues="@array/pref_Sortowanie_values"
+            android:defaultValue="ID ASC" />
+    </PreferenceCategory>
+    <!--<PreferenceCategory  android:title="Bezpieczeństwo" >-->
+    <!--<EditTextPreference-->
+    <!--android:key="pref_Password"-->
+    <!--android:title="@string/pref_Password"-->
+    <!--android:dialogTitle="@string/pref_Password"-->
+    <!--android:summary="@string/pref_Password_opis"-->
+    <!--android:defaultValue="" />-->
+    <!--</PreferenceCategory>-->
+</PreferenceScreen>
