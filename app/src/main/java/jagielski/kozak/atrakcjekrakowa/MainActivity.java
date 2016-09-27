@@ -31,7 +31,7 @@ public class MainActivity extends ActionBarActivity {
 
     private DatabaseHandler db;
 
-    private String url = "http://pepe67.pl/atrakcje.xml";
+    private String url = "http://pkozak.net/atrakcje.xml";
 
     private final String KEY_ATRAKCJA = "atrakcja";
 

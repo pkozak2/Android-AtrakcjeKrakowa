@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lista-atrakcji>
+	<atrakcja>
+		<idmiejsca>1</idmiejsca>
+		<tytul>Kościół Mariacki</tytul>
+		<opis>Kościół archiprezbiterialny pw. Wniebowzięcia Najświętszej Marii Panny, zwany także kościołem Mariackim – jeden z największych i najważniejszych, po Katedrze Wawelskiej, kościołów Krakowa, od 1962 posiadający tytul bazyliki mniejszej. Należy do najbardziej znanych zabytków Krakowa i Polski.</opis>
+		<zdjecie>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ko%C5%9Bci%C3%B3%C5%82Mariacki-POL%2C_Krak%C3%B3w.jpg/1280px-Ko%C5%9Bci%C3%B3%C5%82Mariacki-POL%2C_Krak%C3%B3w.jpg</zdjecie>
+		<gpsl>19.93</gpsl>
+		<gpsh>50.06</gpsh>
+	</atrakcja>
+
+	<atrakcja>
+		<idmiejsca>2</idmiejsca>
+		<tytul>Wawel</tytul>
+		<opis>Zamek Królewski na Wawelu – rezydencja królewska o charakterze zabytkowym, mieszcząca się na Wzgórzu Wawelskim w Krakowie, o powierzchni 7040 m² z 71 salami wystawowymi. Oddział Zamku Królewskiego na Wawelu – Państwowych Zbiorów Sztuki.</opis>
+		<zdjecie>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Krak%C3%B3w_-_Wawel_-_Widok_od_wschodu_01.jpg/1280px-Krak%C3%B3w_-_Wawel_-_Widok_od_wschodu_01.jpg</zdjecie>
+		<gpsl>19.93541</gpsl>
+		<gpsh>50.05405</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>3</idmiejsca>
+		<tytul>Brama Floriańska</tytul>
+		<opis>Brama Floriańska (Brama św. Floriana) w Krakowie – średniowieczna brama z basztą, położona na Starym Mieście w Krakowie u końca ulicy Floriańskiej, przy skrzyżowaniu z ulicą Pijarską. Stanowi pozostałość po dawnych murach miejskich. Jest jedną z ośmiu krakowskich bram obronnych obok sławkowskiej, grodzkiej, wiślnej, mikołajskiej-rzeźniczej (Brama na Gródku), szewskiej, nowej i pobocznej.</opis>
+		<zdjecie>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/St._Florian%27s_Gate%2COld_Town%2C_Krakow%2CPoland.jpg/640px-St._Florian%27s_Gate%2COld_Town%2C_Krakow%2CPoland.jpg</zdjecie>
+		<gpsl>19.94139</gpsl>
+		<gpsh>50.06486</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>4</idmiejsca>
+		<tytul>Kościół na Skałce</tytul>
+		<opis>Kościół św. Michała Archanioła i św. Stanisława Biskupa i Męczennika oraz klasztor paulinów – kompleks sakralny, znajdujący się w Krakowie przy ulicy Skałecznej 15. Nazywany jest potocznie Skałką lub kościołem Na Skałce.
+Jest to według legendy sanktuarium męczeństwa św. Stanisława, biskupa krakowskiego, znajdujące się niedaleko Wawelu, nad Wisłą, na niewielkim wzgórzu, zbudowanym z białego wapienia jurajskiego. Pełni też rolę Panteonu Narodowego.</opis>
+		<zdjecie>http://upload.wikimedia.org/wikipedia/commons/7/7b/Ko%C5%9Bci%C3%B3%C5%82%C5%9AwMicha%C5%82aArchanio%C5%82aOraz%C5%9AwStanis%C5%82awaBM-UlicaSka%C5%82eczna15-POL%2C_Krak%C3%B3w.jpg</zdjecie>
+		<gpsl>19.937891</gpsl>
+		<gpsh>50.048217</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>5</idmiejsca>
+		<tytul>Synagoga Tempel</tytul>
+		<opis>Synagoga Tempel (Synagoga Postępowa) – reformowana synagoga znajdująca się na Kazimierzu w Krakowie, przy ulicy Miodowej 24. Jest obecnie jedną z czterech czynnych synagog w mieście, jednak nabożeństwa odbywają się w niej wyłącznie od czasu do czasu</opis>
+		<zdjecie>http://files.karnet.krakow.pl/obiekty/o/1_synagoga-tempel.jpg</zdjecie>
+		<gpsl>19.944396</gpsl>
+		<gpsh>50.052904</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>6</idmiejsca>
+		<tytul>Park Jordana</tytul>
+		<opis>Park Jordana – park w Krakowie, położony pomiędzy al. 3 Maja (i Błoniami), ul. Reymana (i Stadionem Miejskim) oraz ul. Reymonta (i Miasteczkiem Studenckim AGH).</opis>
+		<zdjecie>http://upload.wikimedia.org/wikipedia/commons/1/19/Krak%C3%B3w_-_park_jordana%2C%2C.jpg</zdjecie>
+		<gpsl>19.916258</gpsl>
+		<gpsh>50.063414</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>7</idmiejsca>
+		<tytul>Zbiornik Zesławice</tytul>
+		<opis>Na północy Krakowa na obrzeżach Nowej Huty znajdują się dwa zbiorniki wodne (Zesławice). W latach 80 zostały one wybudowane z myślą o zapewnieniu dostępności wody pitnej dla osiedli Nowej Huty, natomiast obecnie służą przede wszystkim jako miejsce wypoczynku. Jest to idealne miejsce do relaksu i kontaktu z naturą lub do zrobienia grilla, obowiązuje tu niestety zakaz kąpieli.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/04/zbiornik-zes%C5%82awice.jpg</zdjecie>
+		<gpsl>20.037926</gpsl>
+		<gpsh>50.105787</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>8</idmiejsca>
+		<tytul>Wieża widokowa w Łagiewnikach</tytul>
+		<opis>Jest to jeden z najwyższych punktów miasta, który umożliwia oglądanie całego Krakowa, a przy dobrej widoczności nawet Tatr. Punkt widokowy mieści się na wysokości 46 metrów, natomiast sama wieża ma ponad 70 metrów. Na górę można się dostać na dwa sposoby: albo za pomocą windy albo pokonując każdy z 315 schodków w drodze po piękne widoki.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/05/wie%C5%BCa-widokowa-%C5%82agiewniki.jpg</zdjecie>
+		<gpsl>19.855867</gpsl>
+		<gpsh>50.119232</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>9</idmiejsca>
+		<tytul>Muzeum Żywych Motyli</tytul>
+		<opis>Łapanie motyli zostawmy amatorom! :) W Krakowie znajduje się miejsce pełne pięknych, kolorowych okazów z różnych stron świata, które swobodnie przysiadają na turystach zwiedzających muzeum. Motyle, wraz z towarzyszącymi im ptakami, latają wolno w pomieszczeniu, więc nie unikniesz kontaktu z nimi. Bez obawy można brać motyle na rękę i robić sobie z nimi zdjęcia, pamiętaj jednak by nie uszkodzić tych delikatnych stworzeń! Muzeum stanowi świetną rozrywkę szczególnie dla dzieci.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/05/muzeum-%C5%BCywych-motyli.jpg</zdjecie>
+		<gpsl>19.938235</gpsl>
+		<gpsh>50.057706</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>10</idmiejsca>
+		<tytul>Muzeum Inżynierii Miejskiej</tytul>
+		<opis>Muzeum Inżynierii Miejskiej to miejsce, gdzie można zobaczyć historię tramwajów Krakowa, drukarstwa, czy też małopolskiej motoryzacji. W swojej ofercie muzeum troszczy się także o najmłodszych odbiorców. Przykładem tego jest wystawa „Wokół koła” – gdzie każde dziecko samo będzie mogło sprawdzić jak dane urządzenie działa. Dla tych z niewyczerpanymi bateriami są inne atrakcje, jak huśtawki czy zjeżdżalnie.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/05/muzeum-in%C5%BCynierii-miejskiej.jpg</zdjecie>
+		<gpsl>19.946755</gpsl>
+		<gpsh>50.049844</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>11</idmiejsca>
+		<tytul>Dolina Bolechowicka</tytul>
+		<opis>Dolina Bolechowicka jest pięknym i niezwykle popularnym miejscem, należącym do Parku Krajobrazowego Dolinki Krakowskie. Przez wąwóz prowadzi 1,5 kilometrowy żółty szlak – trasa jest płaska, bez nachyleń, znajdziemy tam chwilę wytchnienia w cieniu. Jest on idealny zarówno dla spacerów, jak i wycieczek rowerowych. Dolinę otwiera efektowna brama skalna – Brama Bolechowicka, zbudowana ze skał wapiennych o wysokości 30 metrów, które chętnie wykorzystują wspinacze. W Dolinie spotkamy również urokliwy potok Bolechówkę oraz dwustopniowy wodospad.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/04/dolina-bolechowicka.jpg</zdjecie>
+		<gpsl>19.790770</gpsl>
+		<gpsh>50.149355</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>12</idmiejsca>
+		<tytul>Kino 4D</tytul>
+		<opis>Chciałbyś odbyć daleką podróż i poczuć na własnej skórze wszystkie przygody bohaterów z dużego ekranu? Chcesz z przyjaciółmi spędzić wieczór pełen wrażeń, które na długo utkwią w Waszej pamięci? Kino 4D oferuje rozrywkę na najwyższym poziomie, która zadowoli nawet tych najbardziej wymagających.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/03/Kino-4D.jpg</zdjecie>
+		<gpsl>19.949180</gpsl>
+		<gpsh>50.028879</gpsh>
+	</atrakcja>
+	
+	<atrakcja>
+		<idmiejsca>13</idmiejsca>
+		<tytul>Przylasek Rusiecki</tytul>
+		<opis>W Przylasku Rusieckim znajdziemy kilkanaście zbiorników, które otoczone są zielenią i wypełnione czystą wodą. To idealne miejsce na rekreację. Teren dzierżawiony jest przez Polski Związek Rybacki, który zarybia stawy oraz prowadzi strzeżone kąpielisko wraz z plażą. Miejsce idealne na wiosenny czy letni wypoczynek na łonie natury.</opis>
+		<zdjecie>http://zrobmycosfajnego.brandlord.pl/wp-content/uploads/2015/03/Przylasek-rusiecki.jpg</zdjecie>
+		<gpsl>20.161554</gpsl>
+		<gpsh>50.049686</gpsh>
+	</atrakcja>
+</lista-atrakcji>
